@@ -2,7 +2,7 @@
 
 live preview of projects
 
-            (https://dijanabg.github.io/Contact-form-html/)
+            [Contact form HTML](https://dijanabg.github.io/Contact-form-html/)
             (https://dijanabg.github.io/Assembly-clone/)
             (https://dijanabg.github.io/Theory-projekat-clone/)
             (https://dijanabg.github.io/simple_blog/)
